@@ -4,7 +4,9 @@
 
 ## Video example
 
-<iframe src="https://drive.google.com/file/d/1dN5VRUiCY6BRG0dzE7R56X-si1Ox0BSC/preview" frameborder="0" allowfullscreen="true"> </iframe>
+**Click to watch the execution of the test cases**
+
+https://drive.google.com/file/d/1dN5VRUiCY6BRG0dzE7R56X-si1Ox0BSC/preview
 
 ## Usage
 
