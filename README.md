@@ -35,7 +35,7 @@ npm test
 ```
 
 - **Non-Headless mode**
-This runs the test cases in the foreground. The runInBand flag, runs the test in series. So that you can view the execution one test case at a time. This is optional though.
+This runs the test cases in the foreground. The runInBand flag, runs the test in series. So that you can view the execution of one test case at a time. This is optional though.
 
 ```sh
 export HEADLESS=false

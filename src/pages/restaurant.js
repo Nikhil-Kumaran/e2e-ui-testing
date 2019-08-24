@@ -50,7 +50,6 @@ class Restaurant extends Component {
       })
       .catch(error => {
         this.setState({ loading: false, error })
-        console.log(error,'some eeero')
       })
   }
 

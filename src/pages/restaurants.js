@@ -25,7 +25,6 @@ class Restaurants extends Component {
       .get(request, 
         { headers: {'user-key': '7c56e626b4a480a25e75063c32d6826e'} })
       .then(data => {
-        console.log(data)
         let restaurants = []
         data.data.restaurants.forEach( (res) => {
           restaurants.push({
@@ -36,7 +35,6 @@ class Restaurants extends Component {
             average_cost_for_two: res.restaurant.average_cost_for_two
           })
         })
-        console.log(restaurants)
         this.setState({
           loading: false,
           restaurants: restaurants
@@ -44,7 +42,6 @@ class Restaurants extends Component {
       })
       .catch(error => {
         this.setState({ loading: false, error })
-        console.log(error,'some eeero')
       })
   }
 
