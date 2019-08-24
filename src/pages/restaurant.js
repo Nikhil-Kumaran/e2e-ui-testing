@@ -6,8 +6,8 @@ import { Spin, Row, Card, Col } from 'antd';
 const emojis = {
   address: '📬',
   cuisines: '😋',
-  average_cost_for_two: '⏰',
-  timings: '💰',
+  average_cost_for_two: '💰',
+  timings: '⏰',
   user_rating: '⭐',
   all_reviews_count: '👩‍',
 

@@ -2,6 +2,12 @@
 
 > *I used react gatsby (just want to give it a try no specific reasons) to develop this application but the jest and puppeteer combo can be used to test any application that runs on the browser*
 
+## Video example
+
+**Click to watch the execution of the test cases**
+
+https://drive.google.com/file/d/1dN5VRUiCY6BRG0dzE7R56X-si1Ox0BSC/preview
+
 ## Usage
 
 **You need to have node > 9**
