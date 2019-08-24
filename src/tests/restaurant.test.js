@@ -38,8 +38,8 @@ describe('Single restaurant page', () => {
 
         await assertion(page, '#address','📬   4/581 A, Velachery Main Road, Senthamizh Nagar, Medavakkam, Chennai')
         await assertion(page, '#cuisines','😋   North Indian, Chinese, Arabian')
-        await assertion(page, '#timings','💰   11:30 AM – 11:30 PM')
-        await assertion(page, '#average_cost_for_two','⏰   700')
+        await assertion(page, '#timings','⏰   11:30 AM – 11:30 PM')
+        await assertion(page, '#average_cost_for_two','💰   700')
         await assertion(page, '#user_rating','⭐   4.8')
         await assertion(page, '#all_reviews_count','👩‍   673')
 
