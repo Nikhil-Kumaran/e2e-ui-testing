@@ -4,11 +4,7 @@
 
 ## Video example
 
-<figure class="video_container">
-  <video controls="true" allowfullscreen="true" poster="./src/img/e2e-ui-testing.png">
-    <source src="./src/videos/e2e-ui-testing.mp4" type="video/mp4">
-  </video>
-</figure>
+<iframe src="https://drive.google.com/file/d/1dN5VRUiCY6BRG0dzE7R56X-si1Ox0BSC/preview" frameborder="0" allowfullscreen="true"> </iframe>
 
 ## Usage
 
