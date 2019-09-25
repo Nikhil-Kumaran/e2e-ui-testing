@@ -15,6 +15,7 @@ class Restaurants extends Component {
   }
 
   componentDidMount() {
+    console.log('hello')
     this.getRestaurantsData()
   }
 
