@@ -21,15 +21,6 @@ describe('Restaurants page', () => {
         await page.close();
         page = await initializePage(browser)
     })
-    
-    it('Should show restaurant logo correctly', async () => {
-
-        await page.goto('http://localhost:3000')
-
-        const logo = await page.$eval('.logo', e => e.innerText)
-        expect(logo).toBe('Food Wiki')
-
-    }, 1000000)
 
     it('Should display restaurants returned from the API correctly', async () => {
 
