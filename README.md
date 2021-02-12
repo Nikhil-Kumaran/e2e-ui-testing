@@ -1,12 +1,13 @@
-# A simple restaurant app to explain end to end testing using jest and puppeteer [![CircleCI](https://circleci.com/gh/Nikhil-Kumaran/e2e-ui-testing/tree/master.svg?style=svg)](https://circleci.com/gh/Nikhil-Kumaran/e2e-ui-testing/tree/master)
+# A simple restaurant app to explain end to end testing using jest and puppeteer 
+[![CircleCI](https://circleci.com/gh/Nikhil-Kumaran/e2e-ui-testing/tree/master.svg?style=svg)](https://circleci.com/gh/Nikhil-Kumaran/e2e-ui-testing/tree/master)
 
 > *I used react gatsby (just want to give it a try no specific reasons) to develop this application but the jest and puppeteer combo can be used to test any application that runs on the browser*
 
 ## Video example
 
-**Click to watch the execution of the test cases**
+**Click below to watch the execution of the test cases**
 
-https://drive.google.com/file/d/1dN5VRUiCY6BRG0dzE7R56X-si1Ox0BSC/preview
+[Click here](https://drive.google.com/file/d/1dN5VRUiCY6BRG0dzE7R56X-si1Ox0BSC/preview "Test cases execution video")
 
 ## Usage
 
